@@ -1,0 +1,40 @@
+{
+  "files": [
+    "content/codebase.md",
+    "content/port-binding.md",
+    "content/dependencies.md",
+    "content/config.md",
+    "content/backing-services.md",
+    "content/background.md",
+    "content/build-release-run.md",
+    "content/processes.md",
+    "content/concurrency.md",
+    "content/disposability.md",
+    "content/dev-prod-parity.md",
+    "content/logs.md",
+    "content/admin-processes.md"
+  ],
+  "formats": {
+    "pdf": {
+      "version": false,
+      "index": false,
+      "toc": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": false,
+      "consolidated": false
+    }
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "12factor"
+}
